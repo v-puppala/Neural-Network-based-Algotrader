@@ -15,4 +15,4 @@ https://finance.yahoo.com/quote/AAPL?p=AAPL&.tsrc=fin-srch
 # We recognize that the client will not be protected against market risk since this product is direction and not hedged
 
 ## Code: 
-  Note that the  machine learning backend that powers the trading bot's output is under Vishal-Algotrading.ipynb
+  Note that the  machine learning backend that powers the trading bot's output is under Vishal-Algotrading.ipynb. Also note that the feature engineering section of Vishal's ml backend contains features that never ended up being used. A more "cleaned up" version of the feature engineering code can be found in Bethel's code. 
