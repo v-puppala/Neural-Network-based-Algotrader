@@ -14,4 +14,4 @@ https://finance.yahoo.com/quote/AAPL?p=AAPL&.tsrc=fin-srch
 # why we chose EAST: it is a penny stock and it is exposed to all the reisk mitiagted for  by SPY with a huge potentialon the upside and a petential for the investor to be wiped out
 # We recognize that the client will not be protected against market risk since this product is direction and not hedged
 
-#Code
+## Code
